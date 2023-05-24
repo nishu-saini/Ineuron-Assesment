@@ -1,0 +1,21 @@
+li {
+  list-style: none;
+  background-color: aqua;
+  width: 200px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+li button {
+  border: 1px solid beige;
+  border-radius: 50%;
+  margin-left: 100px;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

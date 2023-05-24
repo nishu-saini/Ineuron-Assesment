@@ -1,0 +1,43 @@
+.container {
+    margin: auto;
+    max-width: 1080px;
+    display: grid;
+    grid-template-columns: repeat(19, 1fr);
+    grid-row-gap: 10px;
+}
+
+.item {
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 0;
+}
+
+.item-lg {
+    text-align: center;
+    width: 80px;
+}
+
+.item-gap-20 {
+    margin-top: 20px;
+}
+
+.item-border {
+    border: 1px solid black;
+}
+
+.pink {
+    background-color: #e47c9f;
+}
+
+.blue {
+    background-color: #6363ce;
+}
+
+.yellow {
+    background-color: #dfdf5a;
+}
+
+.green {
+    background-color: #6be66b;
+}

@@ -1,0 +1,13 @@
+.dashboard {
+  height: 100%;
+}
+
+.dark {
+  background-color: #504e4e;
+  color: #f0f8ff;
+}
+
+.light {
+  color: #504e4e;
+  background-color: #f0f8ff;
+}
